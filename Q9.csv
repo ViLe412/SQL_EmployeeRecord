@@ -1,0 +1,841 @@
+EmpID,FullName,Title,ADEmail,StartDate
+3430,"Michael Riordan","Area Sales Manager",michael.riordan@bilearner.com,21-Jun-21
+3432,"Maruk Fraval","Area Sales Manager",maruk.fraval@bilearner.com,17-Jan-20
+3434,"Sharlene Terry","Area Sales Manager",sharlene.terry@bilearner.com,06-Nov-20
+3440,"Xana Potts","Area Sales Manager",xana.potts@bilearner.com,05-Dec-19
+3442,"Kaylah Moon","Area Sales Manager",kaylah.moon@bilearner.com,09-Jul-19
+3445,"Reid Park","Area Sales Manager",reid.park@bilearner.com,16-Jan-21
+3451,"Carlee French","Area Sales Manager",carlee.french@bilearner.com,18-Feb-21
+3454,"Leon Beard","Area Sales Manager",leon.beard@bilearner.com,11-Sep-22
+3460,"Alisa James","Area Sales Manager",alisa.james@bilearner.com,19-Feb-20
+3462,"Aliana Nolan","Area Sales Manager",aliana.nolan@bilearner.com,13-Sep-18
+3464,"James Duke","Area Sales Manager",james.duke@bilearner.com,03-Dec-18
+3465,"Willow Stuart","Area Sales Manager",willow.stuart@bilearner.com,08-Nov-21
+3466,"Clayton Walker","Area Sales Manager",clayton.walker@bilearner.com,13-Apr-22
+3472,"Nevaeh Soto","Area Sales Manager",nevaeh.soto@bilearner.com,15-Jan-23
+3477,"Sonny Horne","Area Sales Manager",sonny.horne@bilearner.com,07-Apr-19
+3484,"Albert Gonzalez","Area Sales Manager",albert.gonzalez@bilearner.com,29-Aug-18
+3485,"Jaiden Johnson","Area Sales Manager",jaiden.johnson@bilearner.com,26-Oct-21
+3488,"Willie Patterson","Area Sales Manager",willie.patterson@bilearner.com,09-Sep-22
+3491,"Lennon Buchanan","Area Sales Manager",lennon.buchanan@bilearner.com,26-Jan-21
+3492,"Vicente Merritt","Area Sales Manager",vicente.merritt@bilearner.com,26-Nov-19
+3493,"Hugo Clay","Area Sales Manager",hugo.clay@bilearner.com,15-Jul-19
+3494,"Cohen Raymond","Area Sales Manager",cohen.raymond@bilearner.com,18-Jun-20
+3498,"Joel Mcmillan","Area Sales Manager",joel.mcmillan@bilearner.com,26-Apr-23
+3507,"Ivan Huff","Area Sales Manager",ivan.huff@bilearner.com,25-Feb-21
+3509,"Cruz Boyer","Area Sales Manager",cruz.boyer@bilearner.com,14-Apr-21
+3510,"Raven Koch","Area Sales Manager",raven.koch@bilearner.com,10-Feb-20
+3511,"Karli Barker","Area Sales Manager",karli.barker@bilearner.com,17-Aug-21
+3526,"Darius Krause","Area Sales Manager",darius.krause@bilearner.com,15-Sep-22
+3529,"Callum Mcdaniel","Area Sales Manager",callum.mcdaniel@bilearner.com,03-Jan-20
+3531,"Ronnie Mayer","Area Sales Manager",ronnie.mayer@bilearner.com,17-Jun-23
+3532,"Marlon Ford","Area Sales Manager",marlon.ford@bilearner.com,14-Oct-21
+3533,"Slade Griffith","Area Sales Manager",slade.griffith@bilearner.com,01-Jun-21
+3534,"Lee Frye","Area Sales Manager",lee.frye@bilearner.com,14-Sep-18
+3541,"Aaron Weber","Area Sales Manager",aaron.weber@bilearner.com,06-Apr-20
+3547,"Adriel Wiggins","Area Sales Manager",adriel.wiggins@bilearner.com,20-Jan-22
+3548,"Sanaa Glass","Area Sales Manager",sanaa.glass@bilearner.com,11-Jul-21
+3549,"Ryan Lynch","Area Sales Manager",ryan.lynch@bilearner.com,15-Oct-18
+3552,"Harper Ramos","Area Sales Manager",harper.ramos@bilearner.com,16-Feb-20
+3559,"Wilson K Adinolfi","Production Technician I","wilson k.adinolfi@bilearner.com",06-Nov-19
+3560,"Joanne Handschiegl","Production Technician I",joanne.handschiegl@bilearner.com,01-Jun-22
+3563,"Nore Sadki","Production Technician I",nore.sadki@bilearner.com,01-Jan-19
+3565,"Kramer Keatts","Production Technician I",kramer.keatts@bilearner.com,11-Sep-21
+3567,"Nader Barton","Production Technician I",nader.barton@bilearner.com,04-Mar-23
+3573,"Jennifer Medeiros","Production Technician I",jennifer.medeiros@bilearner.com,09-Mar-20
+3576,"Angela Erilus","Production Technician II",angela.erilus@bilearner.com,21-Jul-21
+3580,"Davion Sanchez","Production Technician I",davion.sanchez@bilearner.com,16-Dec-19
+3584,"Orlando Armstrong","Production Technician I",orlando.armstrong@bilearner.com,14-Aug-20
+3585,"Edward Everett","Production Technician I",edward.everett@bilearner.com,22-Dec-21
+3586,"Jaqueline Terrell","Production Technician I",jaqueline.terrell@bilearner.com,01-Feb-19
+3588,"Selena Greer","Production Technician I",selena.greer@bilearner.com,25-Jun-19
+3593,"Brayden Malone","Production Technician I",brayden.malone@bilearner.com,30-May-20
+3596,"Kellen Medina","Production Technician I",kellen.medina@bilearner.com,28-Jul-19
+3601,"Keagan Henson","Production Technician II",keagan.henson@bilearner.com,21-Nov-22
+3604,"Kane Owen","Production Technician II",kane.owen@bilearner.com,16-Jan-19
+3607,"Frankie Atkins","Production Technician I",frankie.atkins@bilearner.com,18-Jun-19
+3609,"Kayleigh Harmon","Production Technician I",kayleigh.harmon@bilearner.com,02-Jun-21
+3610,"Kayley Myers","Production Technician I",kayley.myers@bilearner.com,11-Oct-18
+3611,"Rowan Cobb","Production Technician I",rowan.cobb@bilearner.com,09-Mar-21
+3616,"Ruben Lewis","Production Technician I",ruben.lewis@bilearner.com,12-Feb-22
+3617,"Bailey Collier","Production Technician I",bailey.collier@bilearner.com,01-Feb-23
+3619,"Karissa Bowers","Production Technician I",karissa.bowers@bilearner.com,23-Mar-23
+3621,"Victoria Franco","Production Technician I",victoria.franco@bilearner.com,28-Nov-18
+3623,"Jocelyn Kline","Production Technician II",jocelyn.kline@bilearner.com,11-Feb-19
+3630,"Stephanie Briggs","Production Technician I",stephanie.briggs@bilearner.com,23-Feb-19
+3631,"Shaniya Becker","Production Technician I",shaniya.becker@bilearner.com,08-Aug-22
+3632,"Ryan Oconnell","Production Technician I",ryan.oconnell@bilearner.com,24-Sep-22
+3634,"Keyon Haley","Production Technician I",keyon.haley@bilearner.com,23-Jun-23
+3637,"Abdullah Pruitt","Production Technician I",abdullah.pruitt@bilearner.com,23-Apr-22
+3643,"Issac Whitehead","Production Technician I",issac.whitehead@bilearner.com,16-Apr-20
+3644,"Madisyn Andrews","Production Technician I",madisyn.andrews@bilearner.com,16-Jun-22
+3645,"Madyson Rhodes","Production Technician I",madyson.rhodes@bilearner.com,22-Jul-19
+3646,"Brenton Rodriguez","Production Technician II",brenton.rodriguez@bilearner.com,22-Apr-23
+3648,"Keyon Hensley","Production Technician II",keyon.hensley@bilearner.com,23-Feb-22
+3651,"Jeremy Meyer","Production Technician II",jeremy.meyer@bilearner.com,14-Oct-19
+3655,"Martha Kemp","Production Technician I",martha.kemp@bilearner.com,25-Feb-23
+3657,"Lorelei Walls","Production Technician I",lorelei.walls@bilearner.com,29-Aug-21
+3660,"Aron Hester","Production Technician I",aron.hester@bilearner.com,24-May-19
+3666,"Davin Peters","Production Technician I",davin.peters@bilearner.com,29-Apr-22
+3668,"Victoria Allen","Production Technician I",victoria.allen@bilearner.com,06-Aug-23
+3670,"Sandra Atkinson","Production Technician II",sandra.atkinson@bilearner.com,11-Aug-22
+3672,"Rhett Valenzuela","Production Technician II",rhett.valenzuela@bilearner.com,14-Jan-19
+3675,"Mario Mays","Production Technician II",mario.mays@bilearner.com,08-Jun-20
+3677,"Dayami Bailey","Production Technician I",dayami.bailey@bilearner.com,01-Oct-22
+3678,"Ramon Fleming","Production Technician I",ramon.fleming@bilearner.com,22-Jul-21
+3679,"Pedro Harrison","Production Technician I",pedro.harrison@bilearner.com,14-Dec-19
+3680,"Harrison Hudson","Production Technician I",harrison.hudson@bilearner.com,27-Mar-20
+3685,"Kylie Jimenez","Production Technician I",kylie.jimenez@bilearner.com,16-Aug-22
+3691,"Chace Church","Production Technician I",chace.church@bilearner.com,23-Nov-20
+3698,"Julien Banks","Production Technician II",julien.banks@bilearner.com,22-Mar-23
+3715,"Jake White","Production Technician I",jake.white@bilearner.com,12-Sep-21
+3717,"Keshawn Le","Production Technician II",keshawn.le@bilearner.com,18-May-23
+3719,"Cannon Hester","Production Technician II",cannon.hester@bilearner.com,22-Jul-22
+3720,"Crystal Brandt","Production Technician II",crystal.brandt@bilearner.com,23-May-19
+3721,"Johnny Goodman","Production Technician I",johnny.goodman@bilearner.com,12-Feb-20
+3726,"Averi Stevenson","Production Technician I",averi.stevenson@bilearner.com,13-Jul-20
+3744,"Skyler Blankenship","Production Technician I",skyler.blankenship@bilearner.com,11-Sep-20
+3746,"Bridget Wu","Production Technician I",bridget.wu@bilearner.com,13-Jul-20
+3749,"Kayden Soto","Production Technician I",kayden.soto@bilearner.com,16-Feb-21
+3751,"Arthur Mitchell","Production Technician I",arthur.mitchell@bilearner.com,15-Oct-21
+3754,"Arielle Potts","Production Technician I",arielle.potts@bilearner.com,02-Jun-20
+3759,"Gabriella Warner","Production Technician I",gabriella.warner@bilearner.com,01-May-22
+3761,"Hazel Vincent","Production Technician II",hazel.vincent@bilearner.com,22-Jun-23
+3768,"Morgan Blackwell","Production Technician I",morgan.blackwell@bilearner.com,31-Dec-20
+3769,"Ivan Wright","Production Technician I",ivan.wright@bilearner.com,12-Dec-20
+3774,"Ramiro Savage","Production Technician I",ramiro.savage@bilearner.com,20-Jun-19
+3776,"Jacqueline Hendrix","Production Technician I",jacqueline.hendrix@bilearner.com,14-Oct-21
+3778,"Semaj Griffith","Production Technician I",semaj.griffith@bilearner.com,02-Apr-23
+3783,"Aaliyah Watts","Production Technician I",aaliyah.watts@bilearner.com,09-May-20
+3791,"Bentley Rush","Production Technician I",bentley.rush@bilearner.com,28-Mar-20
+3792,"Alexia Pham","Production Technician I",alexia.pham@bilearner.com,23-May-19
+3793,"Roselyn Roberts","Production Technician I",roselyn.roberts@bilearner.com,20-Apr-19
+3794,"Ayden Chambers","Production Technician I",ayden.chambers@bilearner.com,09-Sep-18
+3797,"Maria Grant","Production Technician I",maria.grant@bilearner.com,15-May-20
+3798,"Bryanna Ibarra","Production Technician I",bryanna.ibarra@bilearner.com,04-Apr-20
+3802,"Amiyah Ramirez","Production Technician I",amiyah.ramirez@bilearner.com,04-Mar-21
+3808,"Maria Gonzalez","IT Support",maria.gonzalez@bilearner.com,27-Apr-19
+3812,"Sarah Warfield","Sr. Network Engineer",sarah.warfield@bilearner.com,13-Feb-19
+3817,"Linda Dolan","IT Support",linda.dolan@bilearner.com,10-Oct-21
+3820,"Anita Shepard","Network Engineer",anita.shepard@bilearner.com,11-Aug-18
+3824,"Derek Holmes","IT Support",derek.holmes@bilearner.com,07-Jan-20
+3826,"Sabrina Durham","IT Support",sabrina.durham@bilearner.com,26-Apr-23
+3828,"Quintin Solomon","Sr. Network Engineer",quintin.solomon@bilearner.com,12-Sep-19
+3829,"Jaqueline Pittman","Sr. Network Engineer",jaqueline.pittman@bilearner.com,27-Jan-19
+3838,"Tanya Leonard","IT Support",tanya.leonard@bilearner.com,17-Dec-18
+3840,"Meadow Boyer","Sr. Network Engineer",meadow.boyer@bilearner.com,01-Apr-23
+3841,"Paris Simpson","Principal Data Architect",paris.simpson@bilearner.com,20-Mar-21
+3845,"Jaiden Underwood","Network Engineer",jaiden.underwood@bilearner.com,25-Aug-19
+3846,"Eugene Potts","IT Support",eugene.potts@bilearner.com,04-May-20
+3858,"Bailey Humphrey","IT Support",bailey.humphrey@bilearner.com,22-Jan-22
+3866,"Kaeden Vargas","Network Engineer",kaeden.vargas@bilearner.com,04-Sep-20
+3867,"Lena Sandoval","Network Engineer",lena.sandoval@bilearner.com,26-Aug-18
+3871,"Kamari Mcgrath","IT Support",kamari.mcgrath@bilearner.com,15-Dec-22
+3877,"Oscar Lopez","Network Engineer",oscar.lopez@bilearner.com,22-Oct-18
+3883,"Noemi Brewer","IT Support",noemi.brewer@bilearner.com,06-May-22
+3892,"Maxwell Mcpherson","Network Engineer",maxwell.mcpherson@bilearner.com,31-Oct-22
+3894,"Yesenia Nielsen","IT Support",yesenia.nielsen@bilearner.com,29-May-23
+3895,"Myah Marsh","IT Support",myah.marsh@bilearner.com,23-Feb-20
+3900,"Abel Baker","Principal Data Architect",abel.baker@bilearner.com,16-Jun-23
+3903,"Hezekiah Thompson","Network Engineer",hezekiah.thompson@bilearner.com,14-May-19
+3905,"Alayna Hess","Network Engineer",alayna.hess@bilearner.com,04-Aug-20
+3917,"Chris Vincent","Network Engineer",chris.vincent@bilearner.com,19-Dec-19
+3918,"Myah Waller","Network Engineer",myah.waller@bilearner.com,24-Sep-20
+3919,"Yaritza Sherman","IT Support",yaritza.sherman@bilearner.com,06-Jul-23
+3922,"Kaitlin Hickman","IT Support",kaitlin.hickman@bilearner.com,25-Dec-18
+3924,"Walter Zuniga","Sr. Network Engineer",walter.zuniga@bilearner.com,22-May-21
+3926,"Jeffery Gamble","Sr. Network Engineer",jeffery.gamble@bilearner.com,27-Feb-19
+3932,"Ari Anthony","IT Support",ari.anthony@bilearner.com,17-Aug-22
+3935,"Arjun Tyler","IT Support",arjun.tyler@bilearner.com,25-Dec-20
+3940,"Karthikeyan Ait Sidi","Sr. DBA","karthikeyan.ait sidi@bilearner.com",11-Aug-19
+3944,"Julia Zhou","Data Analyst",julia.zhou@bilearner.com,21-Dec-20
+3952,"Kramer Simard","Data Analyst",kramer.simard@bilearner.com,13-Mar-21
+3953,"Mark Griffith","Data Analyst",mark.griffith@bilearner.com,16-Aug-21
+3955,"Draven Giles","Database Administrator",draven.giles@bilearner.com,16-Feb-20
+3958,"Mohammed Orr","Database Administrator",mohammed.orr@bilearner.com,22-Sep-20
+3960,"Andreas Torres",CIO,andreas.torres@bilearner.com,11-Aug-18
+3961,"Maddison Perez","BI Director",maddison.perez@bilearner.com,31-Mar-23
+3969,"Lewis Nixon","Database Administrator",lewis.nixon@bilearner.com,17-Jan-21
+3970,"Macy Webster","Database Administrator",macy.webster@bilearner.com,04-Oct-20
+3977,"Gordon Wu","Sr. Accountant",gordon.wu@bilearner.com,27-Aug-18
+3980,"Carmen Atkins","Data Analyst",carmen.atkins@bilearner.com,11-May-20
+3983,"Kaylie Velazquez","Database Administrator",kaylie.velazquez@bilearner.com,12-Jun-22
+3984,"Christine Skinner","Database Administrator",christine.skinner@bilearner.com,10-Feb-22
+3991,"Talan Rodgers","Sr. Accountant",talan.rodgers@bilearner.com,10-Apr-23
+3992,"Evelin Snow","Data Analyst",evelin.snow@bilearner.com,08-Dec-22
+3993,"Sienna Preston","Data Analyst",sienna.preston@bilearner.com,22-Jun-22
+3994,"Taylor Dennis","Data Analyst",taylor.dennis@bilearner.com,22-Sep-22
+3996,"Leonel Combs","Database Administrator",leonel.combs@bilearner.com,01-Sep-21
+1013,"Jasmin Shah","Software Engineer",jasmin.shah@bilearner.com,13-May-20
+1014,"Kole Quinn","Shared Services Manager",kole.quinn@bilearner.com,31-Dec-22
+1017,"Julien Whitehead","Senior BI Developer",julien.whitehead@bilearner.com,07-Sep-20
+1027,"Joanna Murphy","Senior BI Developer",joanna.murphy@bilearner.com,14-Jun-20
+1033,"Blaine Brooks","Shared Services Manager",blaine.brooks@bilearner.com,28-Mar-23
+1053,"Blaine Keith","Shared Services Manager",blaine.keith@bilearner.com,13-Mar-19
+1054,"Phillip Salazar","Software Engineer",phillip.salazar@bilearner.com,12-Feb-23
+1055,"Chaz Webb","Software Engineer",chaz.webb@bilearner.com,08-Sep-18
+1057,"Sophie Decker","Software Engineer",sophie.decker@bilearner.com,01-Jul-23
+1059,"Kelsie Mccormick","Software Engineer",kelsie.mccormick@bilearner.com,29-Apr-23
+1060,"Frida Livingston","Shared Services Manager",frida.livingston@bilearner.com,10-Oct-18
+1073,"Sean Bean","Software Engineer",sean.bean@bilearner.com,11-May-19
+1075,"Salvador Thomas","Software Engineer",salvador.thomas@bilearner.com,05-Nov-22
+1079,"Joanna Burnett","Shared Services Manager",joanna.burnett@bilearner.com,07-Apr-21
+1080,"Abdullah Frederick","Shared Services Manager",abdullah.frederick@bilearner.com,14-Nov-20
+1083,"Iliana Randall","Software Engineer",iliana.randall@bilearner.com,30-Jul-23
+1085,"Madelyn Lambert","Software Engineer",madelyn.lambert@bilearner.com,27-Mar-22
+1090,"Taylor Gamble","Shared Services Manager",taylor.gamble@bilearner.com,02-Jan-23
+1092,"Sophia Theamstern","Production Technician I",sophia.theamstern@bilearner.com,12-Jul-22
+1094,"Ming Huynh","Production Technician II",ming.huynh@bilearner.com,08-May-23
+1108,"Barry Wilber","Production Technician I",barry.wilber@bilearner.com,24-Jan-19
+1121,"Isabela Collins","Production Manager",isabela.collins@bilearner.com,16-Mar-21
+1123,"Giuliana Farmer","Production Manager",giuliana.farmer@bilearner.com,03-May-22
+1124,"Pierce Robbins","Production Manager",pierce.robbins@bilearner.com,24-Dec-19
+1127,"Axel Hart","Production Technician II",axel.hart@bilearner.com,26-Feb-19
+1140,"Kirsten Vance","Production Technician I",kirsten.vance@bilearner.com,29-Sep-21
+1141,"Cade Cox","Production Technician I",cade.cox@bilearner.com,05-Aug-21
+1143,"Elianna Schmitt","Production Manager",elianna.schmitt@bilearner.com,02-Sep-18
+1145,"Autumn Barrera","Production Technician II",autumn.barrera@bilearner.com,24-Sep-20
+1150,"Yahir Serrano","Production Technician I",yahir.serrano@bilearner.com,05-Aug-20
+1152,"Jadyn Haley","Production Technician I",jadyn.haley@bilearner.com,12-Jan-23
+1160,"Wyatt Spence","Production Technician I",wyatt.spence@bilearner.com,26-Dec-22
+1165,"Isiah Decker","Production Manager",isiah.decker@bilearner.com,08-Feb-21
+1167,"Camryn Guerra","Production Technician II",camryn.guerra@bilearner.com,01-Nov-21
+1168,"Melody Rollins","Production Technician II",melody.rollins@bilearner.com,19-Jan-23
+1170,"Jaylen Serrano","Production Technician II",jaylen.serrano@bilearner.com,16-Jul-23
+1179,"Madeleine Sherman","Production Technician I",madeleine.sherman@bilearner.com,16-Jul-22
+1180,"Allan Butler","Production Technician I",allan.butler@bilearner.com,30-Jun-20
+1183,"Aydin Tate","Production Technician I",aydin.tate@bilearner.com,03-Feb-22
+1185,"Milagros Foley","Production Manager",milagros.foley@bilearner.com,13-Dec-18
+1187,"Rigoberto Townsend","Production Manager",rigoberto.townsend@bilearner.com,04-Jul-21
+1191,"Kaitlynn Herman","Production Technician II",kaitlynn.herman@bilearner.com,24-Nov-19
+1192,"Marquise Santana","Production Technician II",marquise.santana@bilearner.com,23-Sep-22
+1200,"Carlee Foley","Production Technician I",carlee.foley@bilearner.com,27-Apr-22
+1207,"Kamari Holloway","Production Technician I",kamari.holloway@bilearner.com,01-Oct-19
+1214,"Jaliyah Gamble","Production Technician II",jaliyah.gamble@bilearner.com,12-Feb-22
+1226,"Dayton Castro","Production Technician I",dayton.castro@bilearner.com,20-Jun-23
+1228,"Jaquan Rowland","Production Technician I",jaquan.rowland@bilearner.com,30-Aug-21
+1232,"Abbigail Cameron","Production Manager",abbigail.cameron@bilearner.com,19-Mar-20
+1235,"Aliana Pena","Production Technician II",aliana.pena@bilearner.com,14-Apr-20
+1244,"Iris Bruce","Production Technician I",iris.bruce@bilearner.com,23-May-22
+1248,"Sarahi Burke","Production Technician I",sarahi.burke@bilearner.com,29-Mar-21
+1250,"Jerimiah Jackson","Production Technician I",jerimiah.jackson@bilearner.com,06-Sep-18
+1254,"Alyvia Sellers","Production Technician II",alyvia.sellers@bilearner.com,22-Jun-20
+1263,"Barrett Jennings","Production Technician I",barrett.jennings@bilearner.com,20-Oct-22
+1264,"Darius Koch","Production Technician I",darius.koch@bilearner.com,15-Feb-19
+1267,"Virginia Wallace","Production Technician I",virginia.wallace@bilearner.com,14-Nov-20
+1269,"Elyse Pratt","Production Technician I",elyse.pratt@bilearner.com,23-Aug-22
+1270,"Yahir Hill","Production Technician I",yahir.hill@bilearner.com,01-May-19
+1274,"Lillie Leblanc","Production Manager",lillie.leblanc@bilearner.com,22-Nov-22
+1276,"Lucas Good","Production Technician II",lucas.good@bilearner.com,28-Dec-19
+1283,"Taniya Stafford","Production Technician I",taniya.stafford@bilearner.com,11-Jan-21
+1284,"Cherish Preston","Production Technician I",cherish.preston@bilearner.com,08-Dec-19
+1285,"Briley Hanson","Production Technician I",briley.hanson@bilearner.com,26-Sep-21
+1289,"Janiyah Ballard","Production Technician I",janiyah.ballard@bilearner.com,18-Jul-19
+1290,"Annika Malone","Production Technician I",annika.malone@bilearner.com,13-Apr-21
+1293,"Lawrence Cross","Production Technician I",lawrence.cross@bilearner.com,01-Jun-21
+1295,"Emery Schmidt","Production Technician II",emery.schmidt@bilearner.com,13-Jun-21
+1299,"Tia Atkins","Production Technician II",tia.atkins@bilearner.com,24-Mar-20
+1303,"Estrella Benitez","Production Technician I",estrella.benitez@bilearner.com,15-May-20
+1308,"Atticus Frost","Production Technician I",atticus.frost@bilearner.com,28-Jun-22
+1310,"Emmalee Reynolds","Production Technician I",emmalee.reynolds@bilearner.com,03-Apr-23
+1312,"Irene Melton","Production Technician I",irene.melton@bilearner.com,10-Apr-21
+1314,"Marcel Gomez","Production Technician I",marcel.gomez@bilearner.com,13-Oct-21
+1316,"Janet King","President & CEO",janet.king@bilearner.com,20-Jan-19
+1320,"Estelle Howard","Administrative Assistant",estelle.howard@bilearner.com,25-Dec-18
+1321,"William LaRotonda","Accountant I",william.larotonda@bilearner.com,27-May-21
+1322,"Mia Brown","Accountant I",mia.brown@bilearner.com,02-Feb-23
+1328,"Skyler Robles","Sr. Network Engineer",skyler.robles@bilearner.com,29-Feb-20
+1335,"Makenna Newton","Software Engineer",makenna.newton@bilearner.com,31-Oct-21
+1341,"Amiyah Sims","Software Engineering Manager",amiyah.sims@bilearner.com,03-Nov-21
+1345,"Seth Alvarez","Sr. Network Engineer",seth.alvarez@bilearner.com,27-Jan-23
+1347,"Haleigh Carter","Sr. Network Engineer",haleigh.carter@bilearner.com,04-Mar-22
+1352,"Lily Tyler","Sr. Network Engineer",lily.tyler@bilearner.com,08-Aug-18
+1358,"Jairo Blanchard","Accountant I",jairo.blanchard@bilearner.com,08-Nov-18
+1360,"Immanuel Goodwin","Sr. Network Engineer",immanuel.goodwin@bilearner.com,30-Aug-21
+1363,"Hadley Barrett","Accountant I",hadley.barrett@bilearner.com,28-Jul-23
+1369,"Shea Novak","Administrative Assistant",shea.novak@bilearner.com,26-Mar-21
+1372,"Frankie Davenport","Accountant I",frankie.davenport@bilearner.com,24-Nov-22
+1375,"Luca Francis","Sr. Accountant",luca.francis@bilearner.com,14-Jul-21
+1377,"Larissa Douglas","Administrative Assistant",larissa.douglas@bilearner.com,03-Mar-21
+1384,"Karla Farrell","Administrative Assistant",karla.farrell@bilearner.com,01-Jul-20
+1386,"Jacey Braun","Accountant I",jacey.braun@bilearner.com,05-Oct-19
+1387,"Nathan Kline","Accountant I",nathan.kline@bilearner.com,06-Nov-21
+1388,"Gabriella Benitez","Accountant I",gabriella.benitez@bilearner.com,09-May-19
+1389,"Juan Gonzalez","Production Technician II",juan.gonzalez@bilearner.com,28-Oct-19
+1396,"Shari Ngodup","Production Technician I",shari.ngodup@bilearner.com,04-May-19
+1398,"Debbie Mangal","Production Technician I",debbie.mangal@bilearner.com,03-Jan-21
+1399,"Helen Billis","Production Technician I",helen.billis@bilearner.com,15-Jun-23
+1400,"Yen Johnston","Production Technician II",yen.johnston@bilearner.com,29-Aug-18
+1402,"Linda Bachiochi","Production Technician I",linda.bachiochi@bilearner.com,10-Sep-21
+1406,"Jennifer Cloninger","Production Technician II",jennifer.cloninger@bilearner.com,25-Oct-22
+1412,"Rory Stone","Production Technician I",rory.stone@bilearner.com,20-Jun-19
+1413,"Ann Montgomery","Production Technician I",ann.montgomery@bilearner.com,27-Sep-19
+1414,"Erin Holder","Production Technician I",erin.holder@bilearner.com,15-Nov-22
+1416,"Edward Love","Production Technician I",edward.love@bilearner.com,09-Apr-20
+1419,"Shania Bauer","Production Technician I",shania.bauer@bilearner.com,22-May-23
+1421,"Bennett Bowen","Production Technician I",bennett.bowen@bilearner.com,22-Oct-19
+1423,"Azaria Young","Production Technician I",azaria.young@bilearner.com,25-Jun-22
+1425,"Antoine Schaefer","Production Technician I",antoine.schaefer@bilearner.com,04-Aug-19
+1431,"Kaley Ali","Production Technician II",kaley.ali@bilearner.com,15-Mar-19
+1452,"Tyrese Goodman","Production Technician II",tyrese.goodman@bilearner.com,26-Mar-19
+1455,"Alonso Williams","Production Technician I",alonso.williams@bilearner.com,27-Dec-19
+1456,"Kamila Rosales","Production Technician I",kamila.rosales@bilearner.com,25-Jun-19
+1461,"Anabel Evans","Production Technician I",anabel.evans@bilearner.com,12-Apr-19
+1464,"Dustin Beasley","Production Technician I",dustin.beasley@bilearner.com,27-Jan-19
+1465,"Dean Winters","Production Technician I",dean.winters@bilearner.com,17-Dec-20
+1472,"Karina Mccarthy","Production Technician II",karina.mccarthy@bilearner.com,31-Aug-21
+1473,"Ruben Kirby","Production Technician II",ruben.kirby@bilearner.com,25-Sep-20
+1477,"Frida Wilkins","Production Technician I",frida.wilkins@bilearner.com,21-Nov-18
+1479,"Blaine Rose","Production Technician I",blaine.rose@bilearner.com,06-Jan-21
+1483,"Ignacio Wiley","Production Technician I",ignacio.wiley@bilearner.com,21-Aug-22
+1484,"Lorena Mahoney","Production Technician I",lorena.mahoney@bilearner.com,05-May-20
+1486,"Soren Merritt","Production Technician I",soren.merritt@bilearner.com,07-Mar-19
+1496,"Izabella Barron","Production Technician II",izabella.barron@bilearner.com,30-Apr-19
+1499,"Abigayle Mccann","Production Technician I",abigayle.mccann@bilearner.com,26-Feb-22
+1502,"Abagail Banks","Production Technician I",abagail.banks@bilearner.com,10-May-21
+1504,"Guillermo Rose","Production Technician I",guillermo.rose@bilearner.com,04-Nov-19
+1507,"Evelin Sellers","Production Technician I",evelin.sellers@bilearner.com,21-Jul-21
+1509,"Marlee Mathis","Production Technician I",marlee.mathis@bilearner.com,16-May-22
+1516,"Richard Nelson","Production Technician II",richard.nelson@bilearner.com,16-Oct-22
+1519,"Camille Livingston","Production Technician I",camille.livingston@bilearner.com,02-May-23
+1520,"Lilianna Colon","Production Technician I",lilianna.colon@bilearner.com,24-Aug-20
+1522,"Amara Castillo","Production Technician I",amara.castillo@bilearner.com,15-Feb-21
+1523,"Joel Eaton","Production Technician I",joel.eaton@bilearner.com,15-Sep-20
+1526,"Ashtyn Huynh","Production Technician I",ashtyn.huynh@bilearner.com,23-Apr-21
+1527,"Tristen Reed","Production Technician I",tristen.reed@bilearner.com,05-Jun-22
+1530,"Demetrius Sanders","Production Technician I",demetrius.sanders@bilearner.com,13-Dec-22
+1537,"Rayne Simpson","Production Technician II",rayne.simpson@bilearner.com,16-Aug-20
+1538,"Aaron Tapia","Production Technician II",aaron.tapia@bilearner.com,20-Jan-23
+1541,"Johan Sosa","Production Technician I",johan.sosa@bilearner.com,16-Jan-21
+1548,"Brice Christian","Production Technician I",brice.christian@bilearner.com,11-Jun-19
+1549,"Sage Potter","Production Technician I",sage.potter@bilearner.com,05-May-22
+1561,"Shamar Cross","Production Technician I",shamar.cross@bilearner.com,12-Feb-21
+1564,"Cesar House","Production Technician I",cesar.house@bilearner.com,11-Mar-23
+1565,"Guillermo Lynn","Production Technician I",guillermo.lynn@bilearner.com,28-Apr-22
+1568,"Patricia Pruitt","Production Technician I",patricia.pruitt@bilearner.com,01-Feb-23
+1569,"Alice Craig","Production Technician I",alice.craig@bilearner.com,05-Feb-21
+1571,"Nick Merritt","Production Technician I",nick.merritt@bilearner.com,24-May-21
+1579,"Presley Salazar","Production Technician II",presley.salazar@bilearner.com,08-Jul-21
+1580,"Lilianna Lynn","Production Technician II",lilianna.lynn@bilearner.com,04-Apr-23
+1586,"Eugene Reyes","Production Technician I",eugene.reyes@bilearner.com,15-Jan-22
+1590,"Alessandro Fuller","Production Technician I",alessandro.fuller@bilearner.com,09-Sep-21
+1592,"Charlee Wiggins","Production Technician I",charlee.wiggins@bilearner.com,14-Jun-20
+1593,"Natalia Hamilton","Production Technician I",natalia.hamilton@bilearner.com,05-Dec-20
+1594,"Kierra Boone","Production Technician I",kierra.boone@bilearner.com,16-Jul-22
+1595,"Charlie Ramirez","Production Technician I",charlie.ramirez@bilearner.com,09-Jun-23
+1600,"Devon Daniels","Production Technician II",devon.daniels@bilearner.com,06-Nov-18
+1604,"Ansley Duke","Production Technician II",ansley.duke@bilearner.com,08-Mar-20
+1606,"Hillary Clements","Production Technician I",hillary.clements@bilearner.com,11-May-19
+1609,"Ramon Watson","Production Technician I",ramon.watson@bilearner.com,12-Sep-18
+1610,"Raegan Spence","Production Technician I",raegan.spence@bilearner.com,09-Nov-19
+1613,"Beau Barron","Production Technician I",beau.barron@bilearner.com,26-Sep-19
+1617,"Terrell Crosby","Production Technician I",terrell.crosby@bilearner.com,18-Feb-22
+1620,"Evie Mclaughlin","Production Technician I",evie.mclaughlin@bilearner.com,27-May-20
+1627,"Maggie Rachael","BI Developer",maggie.rachael@bilearner.com,15-May-23
+1632,"Alma Pennington","BI Developer",alma.pennington@bilearner.com,14-Jan-22
+1638,"Nikhil Pineda","Sales Manager",nikhil.pineda@bilearner.com,22-Jan-20
+1643,"Kamden Paul","Area Sales Manager",kamden.paul@bilearner.com,07-Apr-19
+1646,"Cora Perez","Sales Manager",cora.perez@bilearner.com,05-Apr-19
+1661,"Kenna Porter","BI Director",kenna.porter@bilearner.com,19-Mar-19
+1662,"Peter Wong","BI Developer",peter.wong@bilearner.com,25-Nov-18
+1664,"Lainey Ayers","Area Sales Manager",lainey.ayers@bilearner.com,02-Apr-21
+1667,"George Sheppard","Senior BI Developer",george.sheppard@bilearner.com,28-Aug-18
+1670,"Ernest Munoz","Sales Manager",ernest.munoz@bilearner.com,18-Jul-19
+1671,"Rose Jordan","Sales Manager",rose.jordan@bilearner.com,21-Nov-21
+1673,"Titus Lowe","BI Director",titus.lowe@bilearner.com,21-Aug-19
+1676,"Moises Day","Area Sales Manager",moises.day@bilearner.com,08-May-23
+1686,"Alexis Harrell","BI Developer",alexis.harrell@bilearner.com,05-Jan-21
+1687,"Mylee Snow","Area Sales Manager",mylee.snow@bilearner.com,25-Nov-22
+1688,"Elsa Mckenzie","Area Sales Manager",elsa.mckenzie@bilearner.com,30-Mar-20
+1701,"Corey Hurst","Senior BI Developer",corey.hurst@bilearner.com,23-Jul-19
+1705,"Randall Miller","BI Director",randall.miller@bilearner.com,04-Oct-18
+1706,"Lailah Hughes","BI Developer",lailah.hughes@bilearner.com,02-Dec-20
+1707,"Quentin Calderon","BI Developer",quentin.calderon@bilearner.com,24-Sep-21
+1713,"Mauricio Meyers","Sales Manager",mauricio.meyers@bilearner.com,01-Dec-21
+1721,"Elliott Odonnell","Senior BI Developer",elliott.odonnell@bilearner.com,22-Sep-19
+1722,"Ronnie Dillon","Senior BI Developer",ronnie.dillon@bilearner.com,22-Feb-22
+1723,"Gideon Saunders","Sales Manager",gideon.saunders@bilearner.com,01-Jul-20
+1726,"Alden Powers","BI Developer",alden.powers@bilearner.com,04-Jul-19
+1727,"Haylie Arnold","BI Developer",haylie.arnold@bilearner.com,31-May-19
+1734,"Raul Garcia","Production Technician I",raul.garcia@bilearner.com,19-Jan-19
+1737,"Colleen Zima","Production Technician I",colleen.zima@bilearner.com,27-Oct-18
+1739,"Hang T Wolk","Production Technician II","hang t.wolk@bilearner.com",15-Jul-19
+1744,"Mei Trang","Production Technician I",mei.trang@bilearner.com,24-Jul-22
+1746,"Brad Pitt","Production Technician I",brad.pitt@bilearner.com,23-Apr-20
+1750,"Alissa Frey","Production Technician I",alissa.frey@bilearner.com,07-Dec-18
+1753,"Rodolfo Michael","Production Technician I",rodolfo.michael@bilearner.com,20-Jun-19
+1755,"Amira Mcmillan","Production Technician I",amira.mcmillan@bilearner.com,02-Jan-19
+1763,"Mckenzie Mack","Production Technician I",mckenzie.mack@bilearner.com,06-Apr-23
+1767,"Kenneth Peters","Production Technician I",kenneth.peters@bilearner.com,10-Feb-23
+1770,"Hayley York","Production Technician I",hayley.york@bilearner.com,12-Sep-18
+1775,"Julie Cochran","Production Technician I",julie.cochran@bilearner.com,06-Oct-18
+1778,"Cannon Lee","Production Technician I",cannon.lee@bilearner.com,25-Apr-19
+1785,"Miley Gutierrez","Production Technician I",miley.gutierrez@bilearner.com,17-Jun-23
+1788,"Jakayla Hall","Production Technician I",jakayla.hall@bilearner.com,11-Jul-20
+1797,"Clara Wheeler","Production Technician I",clara.wheeler@bilearner.com,13-Oct-20
+1798,"Kieran Morse","Production Technician II",kieran.morse@bilearner.com,30-Oct-22
+1800,"Kyan Morrison","Production Technician I",kyan.morrison@bilearner.com,18-Oct-19
+1803,"Stephany Neal","Production Technician I",stephany.neal@bilearner.com,11-Nov-19
+1806,"Nola Gillespie","Production Technician I",nola.gillespie@bilearner.com,06-Mar-22
+1807,"Jeramiah Schwartz","Production Technician I",jeramiah.schwartz@bilearner.com,04-Sep-19
+1811,"Miley Ortega","Production Technician I",miley.ortega@bilearner.com,11-Jun-22
+1821,"Emilie Hood","Production Technician I",emilie.hood@bilearner.com,19-Dec-22
+1823,"Abbigail Blanchard","Production Technician I",abbigail.blanchard@bilearner.com,09-May-21
+1827,"Jessie Church","Production Technician I",jessie.church@bilearner.com,19-Sep-21
+1833,"Ainsley Booth","Production Technician I",ainsley.booth@bilearner.com,01-Jan-23
+1834,"Dereon Huffman","Production Technician II",dereon.huffman@bilearner.com,31-Jul-20
+1837,"Colton Decker","Production Technician II",colton.decker@bilearner.com,16-Aug-21
+1849,"Cindy York","Production Technician I",cindy.york@bilearner.com,28-Jan-22
+1854,"Leslie Potts","Production Technician II",leslie.potts@bilearner.com,25-Oct-20
+1856,"Matteo Oneal","Production Technician II",matteo.oneal@bilearner.com,02-Aug-21
+1858,"Lailah Haney","Production Technician I",lailah.haney@bilearner.com,07-May-19
+1861,"Lorelei Glass","Production Technician I",lorelei.glass@bilearner.com,11-Jun-20
+1863,"Amari Bowen","Production Technician I",amari.bowen@bilearner.com,04-Nov-19
+1868,"Briana Wang","Production Technician I",briana.wang@bilearner.com,22-Mar-22
+1870,"Shelby Frazier","Production Technician I",shelby.frazier@bilearner.com,04-Oct-22
+1871,"Lindsay Becker","Production Technician I",lindsay.becker@bilearner.com,23-Aug-21
+1877,"Waylon Pennington","Production Technician II",waylon.pennington@bilearner.com,30-Oct-21
+1885,"Jabari Guerrero","Production Technician I",jabari.guerrero@bilearner.com,07-Jan-22
+1887,"Esther Spears","Production Technician I",esther.spears@bilearner.com,23-Mar-22
+1890,"Anthony Terrell","Production Technician I",anthony.terrell@bilearner.com,28-Mar-22
+1891,"William Douglas","Production Technician I",william.douglas@bilearner.com,25-Mar-20
+1893,"Kristopher Owen","Production Technician II",kristopher.owen@bilearner.com,11-Feb-20
+1894,"Hadley Tapia","Production Technician II",hadley.tapia@bilearner.com,01-Jan-23
+1899,"Kolton Duarte","Production Technician I",kolton.duarte@bilearner.com,12-Dec-20
+1900,"Jonas Braun","Production Technician I",jonas.braun@bilearner.com,06-Apr-20
+1901,"Meadow Howe","Production Technician I",meadow.howe@bilearner.com,30-Jan-23
+1906,"Bryce Mills","Production Technician I",bryce.mills@bilearner.com,22-Feb-21
+1910,"Adrian Murray","Production Technician I",adrian.murray@bilearner.com,05-Jan-19
+1917,"Megan Huang","Production Technician I",megan.huang@bilearner.com,29-May-19
+1921,"Kenya Decker","Production Technician I",kenya.decker@bilearner.com,06-Sep-21
+1923,"Giana Roach","Production Technician I",giana.roach@bilearner.com,31-Mar-23
+1924,"Teagan Swanson","Production Technician I",teagan.swanson@bilearner.com,16-May-23
+1925,"Jerome Fischer","Production Technician I",jerome.fischer@bilearner.com,29-Apr-23
+1927,"Turner Bradley","Production Technician I",turner.bradley@bilearner.com,03-Nov-22
+1929,"Rose Travis","Production Technician I",rose.travis@bilearner.com,27-Jul-23
+1938,"Madalynn Yates","Production Technician II",madalynn.yates@bilearner.com,23-Mar-20
+1944,"Alessandro Chavez","Production Technician II",alessandro.chavez@bilearner.com,12-May-20
+1946,"Giovanni Whitaker","Production Technician II",giovanni.whitaker@bilearner.com,22-Jul-19
+1952,"Kristin Mccarty","Sales Manager",kristin.mccarty@bilearner.com,16-May-20
+1953,"Barbara Sutwell","Production Technician I",barbara.sutwell@bilearner.com,06-Apr-23
+1956,"Courtney Beatrice","Production Technician I",courtney.beatrice@bilearner.com,15-May-21
+1958,"Lin Chan","Production Technician I",lin.chan@bilearner.com,04-Jul-19
+1973,"Lisa Lunquist","Production Technician II",lisa.lunquist@bilearner.com,14-Nov-19
+1976,"Jon Lynn","Production Technician I",jon.lynn@bilearner.com,09-Jan-21
+1980,"Arianna Horton","Production Technician I",arianna.horton@bilearner.com,10-Nov-21
+1983,"Ricardo Bruce","Production Technician I",ricardo.bruce@bilearner.com,14-Mar-20
+1986,"Sage Mercer","Production Technician I",sage.mercer@bilearner.com,15-Aug-22
+1993,"Emmanuel Huang","Production Technician II",emmanuel.huang@bilearner.com,16-Oct-20
+1994,"Brenna Decker","Production Technician II",brenna.decker@bilearner.com,01-Jul-22
+1995,"Averie Wolfe","Production Technician II",averie.wolfe@bilearner.com,17-Dec-22
+1997,"Karli Ross","Production Technician II",karli.ross@bilearner.com,28-Feb-19
+2004,"Adyson Esparza","Production Technician I",adyson.esparza@bilearner.com,25-Apr-21
+2012,"Darnell Eaton","Production Technician I",darnell.eaton@bilearner.com,24-Jan-20
+2016,"Angela Kaufman","Production Technician II",angela.kaufman@bilearner.com,08-Apr-21
+2020,"Angelique Mathis","Production Technician II",angelique.mathis@bilearner.com,08-May-21
+2024,"Yair Snyder","Production Technician II",yair.snyder@bilearner.com,06-Jul-21
+2026,"Ishaan Schaefer","Production Technician I",ishaan.schaefer@bilearner.com,13-May-23
+2027,"Liam Figueroa","Production Technician I",liam.figueroa@bilearner.com,22-May-19
+2029,"Marilyn Moss","Production Technician I",marilyn.moss@bilearner.com,09-Sep-19
+2030,"Yuliana Nelson","Production Technician I",yuliana.nelson@bilearner.com,26-Apr-19
+2031,"August Wiley","Production Technician I",august.wiley@bilearner.com,19-Feb-22
+2033,"Nico Villarreal","Production Technician I",nico.villarreal@bilearner.com,12-May-22
+2035,"Raymond Gillespie","Production Technician I",raymond.gillespie@bilearner.com,06-Jun-20
+2037,"Ian Hester","Production Technician I",ian.hester@bilearner.com,09-Jan-21
+2039,"Carson Pennington","Production Technician I",carson.pennington@bilearner.com,22-Apr-22
+2044,"Darrell Horne","Production Technician II",darrell.horne@bilearner.com,14-Sep-22
+2049,"Corinne Navarro","Production Technician II",corinne.navarro@bilearner.com,06-Oct-20
+2050,"Meadow Atkins","Production Technician II",meadow.atkins@bilearner.com,11-Jan-22
+2055,"Beau Olsen","Production Technician I",beau.olsen@bilearner.com,25-Nov-20
+2056,"Kelly Ellis","Production Technician I",kelly.ellis@bilearner.com,17-Apr-20
+2061,"King Garrison","Production Technician I",king.garrison@bilearner.com,12-Dec-18
+2063,"Kailyn Montgomery","Production Technician I",kailyn.montgomery@bilearner.com,20-May-21
+2064,"Philip Cobb","Production Technician I",philip.cobb@bilearner.com,28-Aug-20
+2065,"Bria Spence","Production Technician II",bria.spence@bilearner.com,10-May-20
+2066,"Ellie Holder","Production Technician II",ellie.holder@bilearner.com,04-Aug-23
+2070,"Branson Schneider","Production Technician II",branson.schneider@bilearner.com,02-Jul-22
+2071,"Maren Whitehead","Production Technician II",maren.whitehead@bilearner.com,04-Jan-23
+2073,"Armani Barker","Production Technician II",armani.barker@bilearner.com,03-Mar-23
+2074,"Tamia Byrd","Production Technician II",tamia.byrd@bilearner.com,19-Aug-19
+2075,"Oliver Richardson","Production Technician I",oliver.richardson@bilearner.com,30-Oct-18
+2076,"Nathalia Larson","Production Technician I",nathalia.larson@bilearner.com,07-Dec-21
+2084,"Dustin Snow","Production Technician I",dustin.snow@bilearner.com,30-Mar-21
+2085,"Layton Goodwin","Production Technician I",layton.goodwin@bilearner.com,05-May-19
+2087,"Arianna Durham","Production Technician I",arianna.durham@bilearner.com,21-Nov-19
+2088,"Lia Orr","Production Technician I",lia.orr@bilearner.com,19-Jul-19
+2090,"Alexis Nielsen","Production Technician II",alexis.nielsen@bilearner.com,12-Jan-23
+2092,"Hadley Benson","Production Technician II",hadley.benson@bilearner.com,13-Nov-19
+2095,"Lyric Solomon","Production Technician II",lyric.solomon@bilearner.com,14-Jul-23
+2096,"Jerome Howard","Production Technician II",jerome.howard@bilearner.com,18-Jul-23
+2097,"Parker Fritz","Production Technician II",parker.fritz@bilearner.com,06-Dec-18
+2103,"Nola Sellers","Production Technician I",nola.sellers@bilearner.com,02-Oct-20
+2113,"Emerson Wood","Production Technician I",emerson.wood@bilearner.com,09-Jul-20
+2116,"Stanley Bowen","Production Technician II",stanley.bowen@bilearner.com,21-Aug-21
+2117,"Terrell Hanna","Production Technician II",terrell.hanna@bilearner.com,22-Jun-20
+2120,"Simeon Pittman","Production Technician II",simeon.pittman@bilearner.com,05-Oct-18
+2121,"Jenna Cochran","Production Technician II",jenna.cochran@bilearner.com,20-Aug-20
+2132,"Scarlett Brooks","Production Technician I",scarlett.brooks@bilearner.com,25-Apr-22
+2133,"Makhi Kramer","Production Technician I",makhi.kramer@bilearner.com,28-Jul-20
+2139,"Kaleb Elliott","Production Technician II",kaleb.elliott@bilearner.com,05-May-20
+2141,"Casey Dixon","Production Technician II",casey.dixon@bilearner.com,29-Sep-18
+2145,"Leo Hickman","Production Technician II",leo.hickman@bilearner.com,27-Feb-19
+2148,"Joel Koch","Production Technician I",joel.koch@bilearner.com,30-Jul-21
+2150,"Ishaan Sheppard","Production Technician I",ishaan.sheppard@bilearner.com,21-Jan-23
+2157,"Ansley Arias","Production Technician I",ansley.arias@bilearner.com,15-May-20
+2158,"Melany Stafford","Production Technician I",melany.stafford@bilearner.com,23-Feb-23
+2161,"Rodolfo Franklin","Production Technician I",rodolfo.franklin@bilearner.com,19-May-21
+2163,"London Contreras","Production Technician II",london.contreras@bilearner.com,26-Mar-19
+2164,"Kyler Burton","Production Technician II",kyler.burton@bilearner.com,28-Sep-20
+2165,"Yasmine Hughes","Production Technician II",yasmine.hughes@bilearner.com,16-Mar-19
+2168,"Rashad Mayo","Production Technician II",rashad.mayo@bilearner.com,08-Aug-18
+2169,"Larissa Warner","Production Technician II",larissa.warner@bilearner.com,04-Jul-20
+2176,"Tyree Weaver","Production Technician I",tyree.weaver@bilearner.com,07-Oct-21
+2177,"Landen Figueroa","Production Technician I",landen.figueroa@bilearner.com,23-Dec-20
+2180,"Zariah Castaneda","Production Technician I",zariah.castaneda@bilearner.com,03-Nov-18
+2183,"Bria Bush","Production Technician I",bria.bush@bilearner.com,13-Dec-18
+2187,"Amaris Kirk","Production Technician II",amaris.kirk@bilearner.com,28-Feb-20
+2190,"Kimberly Horn","Production Technician II",kimberly.horn@bilearner.com,25-Apr-23
+2199,"Lilly Haynes","Production Technician I",lilly.haynes@bilearner.com,31-May-20
+2200,"Bianca Cardenas","Production Technician I",bianca.cardenas@bilearner.com,19-Jul-22
+2205,"Gia Franco","Production Technician I",gia.franco@bilearner.com,13-Apr-22
+2207,"Sam Knight","Production Technician I",sam.knight@bilearner.com,27-Jan-21
+2208,"Lisa Galia","IT Support",lisa.galia@bilearner.com,21-Sep-18
+2213,"Branden Khan","IT Support",branden.khan@bilearner.com,15-Mar-23
+2214,"Aiden Wade","IT Support",aiden.wade@bilearner.com,29-Jul-21
+2225,"Milo Jensen","IT Manager - DB",milo.jensen@bilearner.com,01-May-23
+2226,"Zechariah Strong","IT Support",zechariah.strong@bilearner.com,22-Mar-19
+2227,"Raymond Maldonado","IT Support",raymond.maldonado@bilearner.com,27-Dec-21
+2230,"Kane Mcfarland","IT Manager - Support",kane.mcfarland@bilearner.com,25-Nov-18
+2232,"Jovan Giles","IT Manager - DB",jovan.giles@bilearner.com,16-Dec-22
+2233,"Sheldon Castillo","IT Support",sheldon.castillo@bilearner.com,27-Sep-19
+2234,"Ariel Barnes","IT Support",ariel.barnes@bilearner.com,20-Feb-21
+2235,"Kyson Grimes","IT Support",kyson.grimes@bilearner.com,26-Feb-22
+2253,"Steven Jarvis","IT Support",steven.jarvis@bilearner.com,17-Nov-20
+2256,"Kaylyn Pham","IT Support",kaylyn.pham@bilearner.com,11-Dec-19
+2257,"Ingrid Lucero","IT Manager - Support",ingrid.lucero@bilearner.com,29-Apr-21
+2268,"Armani Rogers","IT Support",armani.rogers@bilearner.com,04-Jan-21
+2269,"Jacoby Lyons","IT Manager - Support",jacoby.lyons@bilearner.com,28-Apr-20
+2272,"Darryl Richmond","IT Support",darryl.richmond@bilearner.com,29-Aug-22
+2275,"Michael Albert","Production Manager",michael.albert@bilearner.com,25-Jan-22
+2279,"Walter Immediato","Production Manager",walter.immediato@bilearner.com,27-Jun-22
+2281,"Elijiah Gray","Production Manager",elijiah.gray@bilearner.com,10-Sep-19
+2282,"Charles Bozzi","Production Manager",charles.bozzi@bilearner.com,25-Apr-19
+2293,"David Stanley","Production Manager",david.stanley@bilearner.com,15-Jun-20
+2298,"Terry Gay","Production Manager",terry.gay@bilearner.com,05-Aug-23
+2300,"Wesley Nguyen","Production Manager",wesley.nguyen@bilearner.com,26-Sep-20
+2305,"Rosemary Thornton","Network Engineer",rosemary.thornton@bilearner.com,11-Dec-19
+2306,"Ayanna Lutz","Network Engineer",ayanna.lutz@bilearner.com,21-Oct-20
+2308,"Asia Rivers","Data Analyst",asia.rivers@bilearner.com,24-May-22
+2311,"Araceli Castillo","Data Analyst",araceli.castillo@bilearner.com,10-Dec-19
+2313,"Ayanna Bowman","Data Analyst",ayanna.bowman@bilearner.com,13-Sep-21
+2315,"Marcelo Flowers","Production Manager",marcelo.flowers@bilearner.com,12-Jun-22
+2316,"Antwan Gay","Production Manager",antwan.gay@bilearner.com,21-Jul-21
+2321,"Hadassah Gallegos","Production Manager",hadassah.gallegos@bilearner.com,10-May-23
+2329,"Aubree Anderson","Network Engineer",aubree.anderson@bilearner.com,25-Jul-19
+2332,"Jaime Austin","Data Analyst",jaime.austin@bilearner.com,29-Jun-19
+2336,"Walter Dominguez","Production Manager",walter.dominguez@bilearner.com,06-Oct-19
+2341,"Jesus Hendricks","Production Manager",jesus.hendricks@bilearner.com,13-Oct-18
+2346,"Taryn Black","Production Manager",taryn.black@bilearner.com,09-Apr-23
+2348,"Payten Harvey","Network Engineer",payten.harvey@bilearner.com,25-Jun-22
+2349,"Reagan Atkinson","Network Engineer",reagan.atkinson@bilearner.com,26-Jan-23
+2353,"Dalia Booth","Data Analyst",dalia.booth@bilearner.com,07-Sep-18
+2354,"Charlee Navarro","Data Analyst",charlee.navarro@bilearner.com,07-Jan-22
+2369,"Maximilian Moyer","Network Engineer",maximilian.moyer@bilearner.com,19-Oct-21
+2370,"Salvador Robinson","Network Engineer",salvador.robinson@bilearner.com,21-Feb-20
+2373,"Marilyn Wiley","Data Analyst",marilyn.wiley@bilearner.com,05-Nov-20
+2375,"Selena Adkins","Data Analyst",selena.adkins@bilearner.com,13-Sep-18
+2378,"Leticia Parks","Production Manager",leticia.parks@bilearner.com,23-Mar-20
+2383,"Danny Thomas","Production Manager",danny.thomas@bilearner.com,02-Feb-20
+2391,"Gisselle Villanueva","Data Analyst",gisselle.villanueva@bilearner.com,28-Apr-23
+2392,"Demetrius Mendez","Data Analyst",demetrius.mendez@bilearner.com,05-Aug-19
+2394,"Harold David","Production Manager",harold.david@bilearner.com,25-Apr-22
+2397,"Marcos Sloan","Production Manager",marcos.sloan@bilearner.com,19-Sep-18
+2409,"Kaitlin Cooke","Data Analyst",kaitlin.cooke@bilearner.com,06-Feb-20
+2415,"Raelynn Lara","Production Manager",raelynn.lara@bilearner.com,08-Feb-21
+2416,"Leland Chang","Production Manager",leland.chang@bilearner.com,06-Jun-22
+2417,"Hayley Webb","Production Manager",hayley.webb@bilearner.com,27-Feb-21
+2420,"Carleigh Garrison","Production Manager",carleigh.garrison@bilearner.com,03-Jun-20
+2423,"Yael Garcia","President & CEO",yael.garcia@bilearner.com,10-Oct-18
+2424,"Jonathon Montes","Network Engineer",jonathon.montes@bilearner.com,26-Feb-19
+2425,"Alexzander Guzman","Director of Operations",alexzander.guzman@bilearner.com,19-Jun-22
+2427,"Emilee Thompson","Data Analyst",emilee.thompson@bilearner.com,17-Jan-20
+2431,"Elvis Kaufman","Production Manager",elvis.kaufman@bilearner.com,18-Aug-22
+2434,"Liam Blevins","Production Manager",liam.blevins@bilearner.com,14-Jan-23
+2438,"Humberto Rocha","Production Manager",humberto.rocha@bilearner.com,13-Mar-22
+2442,"Larissa Garza","Director of Operations",larissa.garza@bilearner.com,31-Jan-23
+2443,"Camron Jenkins","Data Analyst",camron.jenkins@bilearner.com,27-Jul-20
+2446,"Devan Hall","Production Manager",devan.hall@bilearner.com,06-Dec-21
+2447,"Jensen Mccullough","Production Manager",jensen.mccullough@bilearner.com,02-Feb-20
+2453,"Mila Poole","Production Manager",mila.poole@bilearner.com,13-May-23
+2455,"Jakob Luna","Production Manager",jakob.luna@bilearner.com,03-Mar-20
+2456,"Odin Sampson","Production Manager",odin.sampson@bilearner.com,29-Nov-21
+2460,"Konner Pierce","Data Analyst",konner.pierce@bilearner.com,05-Sep-18
+2461,"Tucker Haas","Shared Services Manager",tucker.haas@bilearner.com,27-Sep-21
+2462,"Lainey York","Production Manager",lainey.york@bilearner.com,09-Jan-20
+2465,"Callum Miles","Production Manager",callum.miles@bilearner.com,13-Apr-20
+2473,"Anastasia Hardy","Production Manager",anastasia.hardy@bilearner.com,27-Mar-21
+2476,"Case Conley","President & CEO",case.conley@bilearner.com,01-Oct-21
+2477,"Trevin Shannon","Director of Sales",trevin.shannon@bilearner.com,31-Jan-22
+2482,"Eric Dougall","IT Manager - Support",eric.dougall@bilearner.com,01-Sep-18
+2488,"Braedon Welch","IT Director",braedon.welch@bilearner.com,26-May-22
+2491,"Giovanna Romero","Software Engineer",giovanna.romero@bilearner.com,07-Apr-19
+2493,"Connor Carrillo","Software Engineer",connor.carrillo@bilearner.com,03-Dec-22
+2499,"Ali Benjamin","Software Engineer",ali.benjamin@bilearner.com,08-Apr-23
+2506,"Trey Johnston","Director of Operations",trey.johnston@bilearner.com,30-Jun-22
+2509,"Madeleine Paul","Software Engineer",madeleine.paul@bilearner.com,21-Sep-20
+2513,"Trinity Estes","IT Manager - DB",trinity.estes@bilearner.com,19-Aug-21
+2514,"Amina Bush","IT Director",amina.bush@bilearner.com,14-Jan-22
+2515,"Mayra Lynn","Director of Sales",mayra.lynn@bilearner.com,11-Sep-18
+2517,"Alina Benson","BI Developer",alina.benson@bilearner.com,01-Dec-19
+2518,"Rebekah Delacruz","BI Developer",rebekah.delacruz@bilearner.com,28-Feb-21
+2525,"Larry Novak","Director of Operations",larry.novak@bilearner.com,15-Sep-21
+2531,"Luciana Gill","Software Engineer",luciana.gill@bilearner.com,24-Jul-23
+2537,"Darien Sawyer","BI Developer",darien.sawyer@bilearner.com,18-Sep-22
+2545,"Odin Key","IT Manager - DB",odin.key@bilearner.com,22-Dec-18
+2554,"Shania Caldwell","IT Manager - DB",shania.caldwell@bilearner.com,18-Jul-22
+2556,"Kaiden Cunningham","Director of Sales",kaiden.cunningham@bilearner.com,10-Dec-20
+2558,"Maeve Gordon","Software Engineering Manager",maeve.gordon@bilearner.com,19-Nov-21
+2559,"Monserrat Ferguson","Software Engineer",monserrat.ferguson@bilearner.com,29-Apr-22
+2562,"Angelique Cochran","IT Manager - DB",angelique.cochran@bilearner.com,12-Apr-21
+2564,"Deandre Oneal","Director of Sales",deandre.oneal@bilearner.com,31-Oct-19
+2566,"Elisabeth Bradley","Software Engineering Manager",elisabeth.bradley@bilearner.com,20-Sep-22
+2568,"Eden Choi","IT Manager - DB",eden.choi@bilearner.com,12-Mar-19
+2570,"Ayden Wu","IT Director",ayden.wu@bilearner.com,16-Jun-19
+2571,"Hayley Keller","BI Director",hayley.keller@bilearner.com,17-Mar-21
+2574,"Giovanni Leruth","Area Sales Manager",giovanni.leruth@bilearner.com,11-Jun-22
+2578,"Michelle Carter","Area Sales Manager",michelle.carter@bilearner.com,30-May-23
+2579,"Jackie Valentin","Area Sales Manager",jackie.valentin@bilearner.com,14-Jan-21
+2581,"Howard Mullaney","Area Sales Manager",howard.mullaney@bilearner.com,07-Jul-21
+2588,"Callum Ford","Area Sales Manager",callum.ford@bilearner.com,18-Aug-20
+2590,"Stephanie Wilkinson","Area Sales Manager",stephanie.wilkinson@bilearner.com,13-Jan-23
+2591,"Cruz Arellano","Area Sales Manager",cruz.arellano@bilearner.com,17-Sep-19
+2595,"Karly Ho","Area Sales Manager",karly.ho@bilearner.com,08-Oct-19
+2596,"Thaddeus Lutz","Area Sales Manager",thaddeus.lutz@bilearner.com,16-Oct-21
+2597,"Layla Kane","Area Sales Manager",layla.kane@bilearner.com,03-Apr-20
+2602,"Jacquelyn Austin","Accountant I",jacquelyn.austin@bilearner.com,16-Apr-19
+2603,"Kaitlynn Aguirre","Area Sales Manager",kaitlynn.aguirre@bilearner.com,05-Mar-19
+2604,"Saniyah Cantu","Area Sales Manager",saniyah.cantu@bilearner.com,20-Dec-18
+2608,"Lewis Hobbs","Area Sales Manager",lewis.hobbs@bilearner.com,25-Oct-20
+2610,"Ronald Marquez","Area Sales Manager",ronald.marquez@bilearner.com,23-Sep-22
+2613,"Raquel Sosa","Area Sales Manager",raquel.sosa@bilearner.com,12-Dec-22
+2614,"Andy Stewart","Area Sales Manager",andy.stewart@bilearner.com,13-May-21
+2617,"Yadira Barron","Administrative Assistant",yadira.barron@bilearner.com,02-Aug-20
+2618,"Anika Bender","Accountant I",anika.bender@bilearner.com,04-Jun-19
+2620,"Kaylin Dillon","Area Sales Manager",kaylin.dillon@bilearner.com,04-Mar-21
+2622,"Mary Moore","Area Sales Manager",mary.moore@bilearner.com,20-Jul-20
+2623,"Harper Clark","Area Sales Manager",harper.clark@bilearner.com,21-May-20
+2625,"Jaron Rojas","Area Sales Manager",jaron.rojas@bilearner.com,27-Nov-22
+2630,"Kiley Wagner","Area Sales Manager",kiley.wagner@bilearner.com,10-Jun-22
+2631,"Darien Young","Area Sales Manager",darien.young@bilearner.com,03-Mar-21
+2633,"Zain Nolan","Administrative Assistant",zain.nolan@bilearner.com,08-Aug-22
+2638,"Mathias Tran","Area Sales Manager",mathias.tran@bilearner.com,20-Nov-21
+2640,"Magdalena Whitehead","Area Sales Manager",magdalena.whitehead@bilearner.com,28-Aug-21
+2641,"Gwendolyn Mccall","Area Sales Manager",gwendolyn.mccall@bilearner.com,28-Apr-21
+2642,"Demarion Harrington","Area Sales Manager",demarion.harrington@bilearner.com,15-Jun-22
+2649,"Maximus Delgado","Area Sales Manager",maximus.delgado@bilearner.com,28-Sep-20
+2650,"Karley Long","Administrative Assistant",karley.long@bilearner.com,15-Nov-18
+2651,"Demarcus Frazier","Administrative Assistant",demarcus.frazier@bilearner.com,24-Nov-20
+2664,"Felipe Rollins","Area Sales Manager",felipe.rollins@bilearner.com,13-Nov-21
+2666,"Kaylyn Frye","Area Sales Manager",kaylyn.frye@bilearner.com,07-Nov-18
+2669,"Jade Becker","Administrative Assistant",jade.becker@bilearner.com,22-Dec-18
+2670,"Vincent Logan","Area Sales Manager",vincent.logan@bilearner.com,27-Mar-21
+2672,"Quincy Shannon","Area Sales Manager",quincy.shannon@bilearner.com,09-Apr-20
+2673,"Alena Walter","Area Sales Manager",alena.walter@bilearner.com,07-Jan-22
+2677,"Demarcus Small","Area Sales Manager",demarcus.small@bilearner.com,16-Mar-19
+2680,"Jasmine Rogers","Area Sales Manager",jasmine.rogers@bilearner.com,25-Dec-20
+2681,"Jaime Greer","Area Sales Manager",jaime.greer@bilearner.com,16-Jun-20
+2687,"Bruno Ashley","Area Sales Manager",bruno.ashley@bilearner.com,21-Jun-21
+2688,"Luciana Steele","Area Sales Manager",luciana.steele@bilearner.com,13-Feb-21
+2691,"Soren Downs","Area Sales Manager",soren.downs@bilearner.com,02-Jan-19
+2692,"Ralph Stone","Area Sales Manager",ralph.stone@bilearner.com,01-Aug-20
+2694,"Adam Beltran","Area Sales Manager",adam.beltran@bilearner.com,26-May-23
+2697,"Benjamin Goodman","Area Sales Manager",benjamin.goodman@bilearner.com,22-Feb-20
+2698,"Jaycee Alexander","Area Sales Manager",jaycee.alexander@bilearner.com,04-Apr-21
+2701,"Branden Ali","Administrative Assistant",branden.ali@bilearner.com,19-Apr-19
+2702,"Sophie Carrillo","Area Sales Manager",sophie.carrillo@bilearner.com,02-Oct-19
+2704,"Isla Mcdaniel","Area Sales Manager",isla.mcdaniel@bilearner.com,27-Jan-20
+2709,"Emily Freeman","Area Sales Manager",emily.freeman@bilearner.com,03-Apr-22
+2710,"Madyson Yates","Area Sales Manager",madyson.yates@bilearner.com,28-Feb-22
+2712,"Helen Humphrey","Area Sales Manager",helen.humphrey@bilearner.com,19-Aug-18
+2713,"Abagail Villanueva","Area Sales Manager",abagail.villanueva@bilearner.com,15-Oct-19
+2721,"Emerson Zavala","Area Sales Manager",emerson.zavala@bilearner.com,01-Mar-20
+2725,"Dean Little","Area Sales Manager",dean.little@bilearner.com,18-Nov-19
+2726,"Martin Herrera","Area Sales Manager",martin.herrera@bilearner.com,12-May-21
+2727,"Uriah Briggs","Area Sales Manager",uriah.briggs@bilearner.com,14-Feb-20
+2728,"Kianna Little","Area Sales Manager",kianna.little@bilearner.com,08-May-20
+2729,"David Kirk","Area Sales Manager",david.kirk@bilearner.com,10-Dec-18
+2731,"Denzel Jensen","Administrative Assistant",denzel.jensen@bilearner.com,31-Jan-19
+2732,"Fletcher Maxwell","Area Sales Manager",fletcher.maxwell@bilearner.com,31-Aug-22
+2736,"Zara Werner","Area Sales Manager",zara.werner@bilearner.com,27-May-20
+2738,"Kaeden Branch","Area Sales Manager",kaeden.branch@bilearner.com,07-Feb-19
+2742,"Samir Gray","Area Sales Manager",samir.gray@bilearner.com,23-Apr-22
+2744,"Walter Mayo","Area Sales Manager",walter.mayo@bilearner.com,12-Jun-20
+2748,"Melinda Saar-Beckles","Production Technician I",melinda.saar-beckles@bilearner.com,11-Jul-22
+2750,"Patrick Moran","Production Technician II",patrick.moran@bilearner.com,04-Jun-22
+2754,"Louis Punjabhi","Production Technician I",louis.punjabhi@bilearner.com,05-Apr-20
+2759,"Rick Stoica","Production Technician I",rick.stoica@bilearner.com,26-Aug-18
+2763,"Paula Gross","Production Technician I",paula.gross@bilearner.com,19-Oct-19
+2764,"Francesco A Barone","Production Technician I","francesco a.barone@bilearner.com",26-Nov-22
+2765,"Rex England","Production Technician I",rex.england@bilearner.com,19-Aug-19
+2767,"Colleen Volk","Production Technician I",colleen.volk@bilearner.com,04-May-22
+2773,"Tony Grimes","Production Technician I",tony.grimes@bilearner.com,28-Dec-22
+2777,"Hector Escobar","Production Technician I",hector.escobar@bilearner.com,29-Apr-20
+2784,"Gillian Riddle","Production Technician II",gillian.riddle@bilearner.com,20-May-21
+2785,"Atticus White","Production Technician II",atticus.white@bilearner.com,14-Nov-20
+2786,"Virginia Nunez","Production Technician II",virginia.nunez@bilearner.com,29-Dec-18
+2787,"Caden Taylor","Production Technician II",caden.taylor@bilearner.com,22-Apr-21
+2793,"Eden Dalton","Production Technician I",eden.dalton@bilearner.com,02-Mar-21
+2796,"Destiny Blake","Production Technician I",destiny.blake@bilearner.com,19-Sep-22
+2804,"Salma Frederick","Production Technician II",salma.frederick@bilearner.com,10-Mar-19
+2811,"Phoenix Farley","Production Technician I",phoenix.farley@bilearner.com,13-Aug-18
+2813,"Enrique Parks","Production Technician I",enrique.parks@bilearner.com,28-Jun-22
+2824,"Talan Garrett","Production Technician II",talan.garrett@bilearner.com,02-Mar-21
+2831,"Craig Sherman","Production Technician I",craig.sherman@bilearner.com,28-Jul-21
+2832,"Lilyana Huffman","Production Technician I",lilyana.huffman@bilearner.com,21-Nov-21
+2833,"Jacey Reeves","Production Technician I",jacey.reeves@bilearner.com,12-Oct-20
+2834,"Madyson Silva","Production Technician I",madyson.silva@bilearner.com,02-Oct-18
+2849,"Shannon Hurst","Production Technician I",shannon.hurst@bilearner.com,02-Oct-18
+2854,"Eileen Beard","Production Technician I",eileen.beard@bilearner.com,02-Aug-22
+2855,"Kale Potter","Production Technician I",kale.potter@bilearner.com,19-Jan-22
+2861,"Judith Savage","Production Technician I",judith.savage@bilearner.com,06-Oct-18
+2864,"Luke Heath","Production Technician II",luke.heath@bilearner.com,16-May-22
+2869,"Nelson Carpenter","Production Technician I",nelson.carpenter@bilearner.com,17-Dec-22
+2872,"Greta Horne","Production Technician I",greta.horne@bilearner.com,29-Jun-20
+2873,"Jordyn Snyder","Production Technician I",jordyn.snyder@bilearner.com,28-Mar-22
+2874,"Alex Collins","Production Technician I",alex.collins@bilearner.com,14-Feb-22
+2879,"Trystan Fernandez","Production Technician I",trystan.fernandez@bilearner.com,20-Dec-18
+2881,"Kyson Scott","Production Technician I",kyson.scott@bilearner.com,07-Jun-23
+2883,"Slade Lynn","Production Technician II",slade.lynn@bilearner.com,01-Mar-19
+2890,"Caitlyn Vaughan","Production Technician I",caitlyn.vaughan@bilearner.com,07-Oct-22
+2892,"Laila Wiggins","Production Technician I",laila.wiggins@bilearner.com,10-Apr-21
+2894,"Aliza Pace","Production Technician I",aliza.pace@bilearner.com,01-Jul-22
+2898,"Angel Santos","Production Technician I",angel.santos@bilearner.com,20-Dec-19
+2903,"Presley Padilla","Production Technician I",presley.padilla@bilearner.com,09-Feb-23
+2905,"Gillian Williams","Production Technician II",gillian.williams@bilearner.com,14-Oct-22
+2910,"Ronan Burke","Production Technician II",ronan.burke@bilearner.com,01-May-22
+2911,"Estrella Ho","Production Technician I",estrella.ho@bilearner.com,07-Aug-18
+2918,"Brice Medina","Production Technician I",brice.medina@bilearner.com,22-Dec-18
+2922,"Miles Roberts","Production Technician I",miles.roberts@bilearner.com,14-Oct-22
+2930,"Jon Galvan","Production Technician II",jon.galvan@bilearner.com,21-Apr-23
+2938,"Paul Steele","Production Technician I",paul.steele@bilearner.com,08-Jan-23
+2939,"Jason Moyer","Production Technician I",jason.moyer@bilearner.com,26-Jul-22
+2941,"Aryanna Larson","Production Technician I",aryanna.larson@bilearner.com,05-Nov-22
+2946,"Dahlia Waller","Production Technician II",dahlia.waller@bilearner.com,13-Sep-18
+2952,"Bridger Alvarado","Production Technician II",bridger.alvarado@bilearner.com,05-Jul-19
+2953,"Cannon Morgan","Production Technician I",cannon.morgan@bilearner.com,05-Nov-19
+2956,"Aarav Espinoza","Production Technician I",aarav.espinoza@bilearner.com,11-Nov-19
+2958,"Ulises Herring","Production Technician I",ulises.herring@bilearner.com,01-Jun-20
+2961,"Erin Floyd","Production Technician I",erin.floyd@bilearner.com,19-Oct-22
+2962,"Gerald Johnston","Production Technician I",gerald.johnston@bilearner.com,12-Dec-19
+2963,"Kendrick Snyder","Production Technician I",kendrick.snyder@bilearner.com,29-Nov-21
+2964,"Alyssa Proctor","Production Technician I",alyssa.proctor@bilearner.com,15-May-21
+2981,"Caroline Cierpiszewski","Production Technician I",caroline.cierpiszewski@bilearner.com,23-Jul-22
+2987,"Geoff Dickinson","Production Technician I",geoff.dickinson@bilearner.com,24-Sep-20
+2991,"Skyler Drake","Production Technician I",skyler.drake@bilearner.com,13-Mar-20
+2993,"Harley Nunez","Production Technician I",harley.nunez@bilearner.com,18-Mar-19
+2995,"Ronnie Haas","Production Technician I",ronnie.haas@bilearner.com,03-Sep-18
+3000,"Reyna Hicks","Production Technician I",reyna.hicks@bilearner.com,09-Jul-22
+3004,"Tiara Velez","Production Technician II",tiara.velez@bilearner.com,29-Aug-19
+3006,"Efrain Underwood","Production Technician II",efrain.underwood@bilearner.com,04-Oct-22
+3007,"Madeline Powell","Production Technician II",madeline.powell@bilearner.com,21-Mar-19
+3008,"Alfred Goodman","Production Technician II",alfred.goodman@bilearner.com,03-Apr-20
+3013,"Deja Ritter","Production Technician I",deja.ritter@bilearner.com,18-May-19
+3017,"Arjun Gibson","Production Technician I",arjun.gibson@bilearner.com,16-Apr-23
+3019,"Elyse Morrow","Production Technician I",elyse.morrow@bilearner.com,15-Apr-22
+3022,"Leonel Chang","Production Technician I",leonel.chang@bilearner.com,10-Oct-18
+3024,"Haiden Scott","Production Technician II",haiden.scott@bilearner.com,26-Dec-21
+3027,"Alan Woods","Production Technician II",alan.woods@bilearner.com,27-May-23
+3029,"Malachi Burnett","Production Technician II",malachi.burnett@bilearner.com,24-Oct-21
+3037,"Catalina Eaton","Production Technician I",catalina.eaton@bilearner.com,02-Mar-20
+3040,"Areli Torres","Production Technician I",areli.torres@bilearner.com,14-Dec-20
+3041,"Rey Morton","Production Technician I",rey.morton@bilearner.com,20-Jun-20
+3043,"Rowan Gilbert","Production Technician I",rowan.gilbert@bilearner.com,25-Sep-22
+3047,"Francesca Lowe","Production Technician II",francesca.lowe@bilearner.com,12-Sep-18
+3050,"Harmony Pruitt","Production Technician II",harmony.pruitt@bilearner.com,10-Feb-20
+3052,"Ean Barajas","Production Technician II",ean.barajas@bilearner.com,25-Jan-20
+3053,"Dayana Gregory","Production Technician II",dayana.gregory@bilearner.com,26-Mar-20
+3054,"Zaniyah Mccarthy","Production Technician I",zaniyah.mccarthy@bilearner.com,23-Oct-20
+3061,"Kaylynn Odom","Production Technician I",kaylynn.odom@bilearner.com,03-Jan-23
+3064,"London Pennington","Production Technician I",london.pennington@bilearner.com,08-Jul-23
+3066,"Vicente Davis","Production Technician I",vicente.davis@bilearner.com,28-Jul-22
+3076,"Omari Keller","Production Technician II",omari.keller@bilearner.com,26-Apr-23
+3083,"Nick Palmer","Production Technician I",nick.palmer@bilearner.com,14-Jan-23
+3085,"Eileen Oneal","Production Technician I",eileen.oneal@bilearner.com,29-Aug-20
+3092,"Beckett Sandoval","Production Technician II",beckett.sandoval@bilearner.com,12-Jan-20
+3093,"Isabell Meadows","Production Technician II",isabell.meadows@bilearner.com,29-Jun-19
+3094,"Jordin Alexander","Production Technician II",jordin.alexander@bilearner.com,15-Jul-21
+3098,"Rayne Chambers","Production Technician II",rayne.chambers@bilearner.com,18-Aug-21
+3101,"Bethany Mckay","Production Technician I",bethany.mckay@bilearner.com,23-Jan-23
+3110,"Luis Frazier","Production Technician I",luis.frazier@bilearner.com,16-Mar-22
+3113,"Giselle Calderon","Production Technician II",giselle.calderon@bilearner.com,03-Feb-19
+3114,"Cullen French","Production Technician II",cullen.french@bilearner.com,30-Sep-18
+3120,"Angelique Hogan","Production Technician I",angelique.hogan@bilearner.com,05-Aug-21
+3121,"Moriah Dodson","Production Technician I",moriah.dodson@bilearner.com,07-Nov-22
+3126,"Amelia Mueller","Production Technician I",amelia.mueller@bilearner.com,27-Apr-22
+3132,"Ximena Suarez","Production Technician I",ximena.suarez@bilearner.com,27-Apr-20
+3134,"Heidi Joyce","Production Technician II",heidi.joyce@bilearner.com,06-Dec-18
+3136,"Cesar Anderson","Production Technician II",cesar.anderson@bilearner.com,16-Nov-22
+3140,"Evie Beard","Production Technician I",evie.beard@bilearner.com,01-Mar-22
+3153,"Jagger Morgan","Production Technician I",jagger.morgan@bilearner.com,29-Nov-19
+3157,"Deegan Pham","Production Technician II",deegan.pham@bilearner.com,10-Mar-19
+3158,"Seth Oneill","Production Technician II",seth.oneill@bilearner.com,30-May-23
+3163,"Geovanni Crawford","Production Technician I",geovanni.crawford@bilearner.com,26-Sep-19
+3165,"Kasey Pineda","Production Technician I",kasey.pineda@bilearner.com,08-Mar-19
+3166,"Kenzie Friedman","Production Technician I",kenzie.friedman@bilearner.com,06-Aug-19
+3170,"Demarcus Huffman","Production Technician I",demarcus.huffman@bilearner.com,28-Jan-22
+3175,"Raphael Whitney","Production Technician I",raphael.whitney@bilearner.com,23-Jul-23
+3176,"Cade Palmer","Production Technician I",cade.palmer@bilearner.com,13-Dec-18
+3179,"Amya Armstrong","Production Technician II",amya.armstrong@bilearner.com,23-Dec-20
+3184,"Dakota Oliver","Production Technician I",dakota.oliver@bilearner.com,13-May-22
+3186,"Kaila Flowers","Production Technician I",kaila.flowers@bilearner.com,29-Aug-21
+3187,"Dashawn Ramirez","Production Technician I",dashawn.ramirez@bilearner.com,13-Dec-22
+3194,"Alessandro Sawyer","Production Technician I",alessandro.sawyer@bilearner.com,25-Mar-21
+3195,"Kaylen Hogan","Production Technician I",kaylen.hogan@bilearner.com,16-Jul-20
+3197,"Erik Parks","Production Technician I",erik.parks@bilearner.com,27-Jun-19
+3199,"Hannah Jacobi","Production Technician I",hannah.jacobi@bilearner.com,22-Nov-18
+3204,"Bruno Rossetti","Production Technician I",bruno.rossetti@bilearner.com,04-Jun-23
+3209,"Daniel Davis","Production Technician II",daniel.davis@bilearner.com,24-Apr-21
+3210,"Barbara M Stanford","Production Technician I","barbara m.stanford@bilearner.com",12-May-20
+3219,"Luisa Monterro","Production Technician II",luisa.monterro@bilearner.com,20-Sep-19
+3220,"Sandy Mckenna","Production Technician I",sandy.mckenna@bilearner.com,24-Jul-23
+3223,"Alisa Aguirre","Production Technician I",alisa.aguirre@bilearner.com,06-Nov-22
+3226,"Drake Ashley","Production Technician I",drake.ashley@bilearner.com,20-Jan-19
+3236,"Landin Walton","Production Technician II",landin.walton@bilearner.com,24-Jan-22
+3241,"Lana Vega","Production Technician II",lana.vega@bilearner.com,15-May-22
+3243,"Harley Peterson","Production Technician I",harley.peterson@bilearner.com,13-Dec-20
+3250,"Seth Fletcher","Production Technician I",seth.fletcher@bilearner.com,25-Mar-21
+3257,"Sanaa Reilly","Production Technician II",sanaa.reilly@bilearner.com,19-Nov-20
+3262,"Kasey Preston","Production Technician II",kasey.preston@bilearner.com,22-Mar-22
+3265,"Giovanni Klein","Production Technician I",giovanni.klein@bilearner.com,31-Oct-18
+3266,"Max Mahoney","Production Technician I",max.mahoney@bilearner.com,24-Jul-20
+3270,"Brandon Dickerson","Production Technician I",brandon.dickerson@bilearner.com,31-Oct-19
+3279,"Jonas Everett","Production Technician II",jonas.everett@bilearner.com,23-Jan-19
+3281,"Gloria Rose","Production Technician II",gloria.rose@bilearner.com,16-Aug-19
+3282,"Rebekah Carpenter","Production Technician II",rebekah.carpenter@bilearner.com,04-Jun-20
+3289,"Kinley Serrano","Production Technician I",kinley.serrano@bilearner.com,17-May-20
+3290,"Jaiden Middleton","Production Technician I",jaiden.middleton@bilearner.com,07-Aug-18
+3291,"Shamar Serrano","Production Technician I",shamar.serrano@bilearner.com,01-Aug-23
+3295,"Emmanuel Perkins","Production Technician I",emmanuel.perkins@bilearner.com,31-May-19
+3298,"Tatum Petty","Production Technician II",tatum.petty@bilearner.com,19-Nov-20
+3299,"Devyn Pace","Production Technician II",devyn.pace@bilearner.com,10-Nov-22
+3307,"Quincy Cardenas","Production Technician I",quincy.cardenas@bilearner.com,21-Jun-19
+3313,"Aimee Davila","Production Technician I",aimee.davila@bilearner.com,09-May-21
+3317,"Shyann Hurst","Production Technician I",shyann.hurst@bilearner.com,17-Mar-22
+3321,"Tatum Terrell","Production Technician II",tatum.terrell@bilearner.com,17-Feb-19
+3327,"Selah Ibarra","Production Technician I",selah.ibarra@bilearner.com,01-Jan-20
+3329,"Gabriel Smith","Production Technician I",gabriel.smith@bilearner.com,24-Oct-20
+3340,"Mina Hancock","Production Technician I",mina.hancock@bilearner.com,29-Nov-22
+3343,"Seth Huff","Production Technician II",seth.huff@bilearner.com,21-Feb-22
+3349,"Taylor Bonilla","Production Technician I",taylor.bonilla@bilearner.com,07-Nov-22
+3352,"Aubree Mooney","Production Technician I",aubree.mooney@bilearner.com,22-Feb-23
+3384,"Dennis Hays","Production Technician I",dennis.hays@bilearner.com,07-Mar-19
+3385,"Kelly Fritz","Production Technician I",kelly.fritz@bilearner.com,13-Mar-22
+3387,"Sabrina Holt","Production Technician II",sabrina.holt@bilearner.com,06-Mar-19
+3391,"Odin Camacho","Production Technician II",odin.camacho@bilearner.com,13-Jan-20
+3393,"Skyla Santiago","Production Technician I",skyla.santiago@bilearner.com,25-Aug-18
+3398,"Kyler Cherry","Production Technician I",kyler.cherry@bilearner.com,09-Nov-19
+3399,"Corinne Reeves","Production Technician I",corinne.reeves@bilearner.com,05-Jun-22
+3409,"Brenton Zavala","Production Technician II",brenton.zavala@bilearner.com,08-Oct-22
+3412,"Andrea Walters","Production Technician II",andrea.walters@bilearner.com,28-Dec-19
+3420,"Levi Hayden","Production Technician I",levi.hayden@bilearner.com,10-Oct-20
+3423,"Adyson Strickland","Production Technician I",adyson.strickland@bilearner.com,28-Dec-20
